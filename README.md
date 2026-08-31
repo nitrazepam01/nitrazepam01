@@ -1,10 +1,20 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=false&pause=100000&lines=Hi,+I%27m+nitrazepam01.)
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=false&pause=100000&lines=Hi,+I%27m+nitrazepam01." alt="Hi"/>
+  <p>
+    <code>Born 2005-10-21</code>
+    <code>Automation Undergrad</code>
+    <code>Optimization Enthusiast</code>
+  </p>
+</div>
 
-Born 2005-10-21
-Automation Undergrad
-
-<!-- 有了博客/LeetCode/社交账号后，把这一行取消注释并替换成你的链接，像这样：
-[Blog](https://...) · [Leetcode](https://...) · [Bilibili](https://...)
+<!-- 有了博客/LeetCode/社交账号后，取消注释并替换成你的链接：
+<p>
+  <samp>
+    <a href="https://...">Blog</a> ·
+    <a href="https://...">Leetcode</a> ·
+    <a href="https://...">Bilibili</a>
+  </samp>
+</p>
 -->
 
 - I like algorithms & optimization, feel free to reach out

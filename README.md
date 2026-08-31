@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=false&pause=100000&lines=Hi,+I%27m+nitrazepam01.)
 
 Born 2005-10-21
-CS Undergrad
+Automation Undergrad
 
 <!-- 有了博客/LeetCode/社交账号后，把这一行取消注释并替换成你的链接，像这样：
 [Blog](https://...) · [Leetcode](https://...) · [Bilibili](https://...)
@@ -13,4 +13,4 @@ CS Undergrad
 
 - enjoy: 1️⃣ Machine Learning · 2️⃣ LLMs · 3️⃣ Operations Research
 
-btw beyond vscode, my off-duty stack: #Overwatch #Reverse1999 #ReZero #EVA (^. .^)
+when I'm not coding: #Overwatch #Reverse1999 #ReZero #EVA (≧▽≦)

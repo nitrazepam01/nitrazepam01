@@ -24,7 +24,7 @@
 - enjoy: 1️⃣ Machine Learning · 2️⃣ LLMs · 3️⃣ Operations Research
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,matlab,pytorch,jupyter,git,linux,linuxmint,docker,vscode&perline=6" alt="Java, C, C++, Python, MATLAB, PyTorch, Jupyter, Git, Linux, Linux Mint, Docker, VS Code" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,matlab,pytorch,anaconda,git,linux,ubuntu,docker,vscode&perline=6" alt="Java, C, C++, Python, MATLAB, PyTorch, Anaconda, Git, Linux, Ubuntu, Docker, VS Code" />
 </p>
 
 when I'm not coding: #Overwatch #Reverse1999 #ReZero #EVA (≧▽≦)

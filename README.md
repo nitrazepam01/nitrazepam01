@@ -23,4 +23,8 @@
 
 - enjoy: 1️⃣ Machine Learning · 2️⃣ LLMs · 3️⃣ Operations Research
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,pytorch,jupyter,git,linux,docker,vscode&perline=8" alt="Java, Python, PyTorch, Jupyter, Git, Linux, Docker, VS Code" />
+</p>
+
 when I'm not coding: #Overwatch #Reverse1999 #ReZero #EVA (≧▽≦)
